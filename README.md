@@ -37,8 +37,8 @@ Una vez finalizado el entrenamiento, la Tabla Q se guarda en un archivo para reu
 Clonar el repositorio:
 
 ```bash
-git clone <url-del-repositorio>
-cd <nombre-del-repositorio>
+git clone <(https://github.com/daiuuu/Reinforcement-Learning-Model)>
+cd <Reinforcement-Learning-Model>
 ```
 
 Instalar las dependencias:
